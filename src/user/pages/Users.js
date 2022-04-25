@@ -1,12 +1,14 @@
 import React from 'react';
+
 import UsersList from '../components/UsersList';
 
 const Users = () => {
   const USERS = [
     {
       id: 'u1',
-      name: 'Jose Pepe',
-      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Georgia_Aquarium_-_Giant_Grouper_edit.jpg/220px-Georgia_Aquarium_-_Giant_Grouper_edit.jpg',
+      name: 'Max Schwarz',
+      image:
+        'https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
       places: 3
     }
   ];
